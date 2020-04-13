@@ -24,3 +24,6 @@ a
 b
 c
 ```
+
+## kebab case
+Converts a string to kebab case an copies into clibboard
