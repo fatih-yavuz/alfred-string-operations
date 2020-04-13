@@ -1,6 +1,7 @@
 import os
-import random
+import re
 import time
+import random
 
 
 def generate_random_filepath():
@@ -38,10 +39,7 @@ def write_to_clipboard(content):
     os.system("cat " + filepath + " | pbcopy")
 
 
-def main():
-    content = read_from_clipboard()
-    content = remove_duplicate_lines(content)
-    write_to_clipboard(content)
-
-
-main()
+def convert_to_kebab_case(string):
+    string = string.lower()
+    string = re.sub(r'\s+', '-', string)
+    return string
