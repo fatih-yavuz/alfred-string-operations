@@ -40,6 +40,6 @@ def write_to_clipboard(content):
 
 
 def convert_to_kebab_case(string):
-    string = string.lower()
+    string = string.lower().strip()
     string = re.sub(r'\s+', '-', string)
     return string
