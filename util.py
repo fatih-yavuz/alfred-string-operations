@@ -1,7 +1,7 @@
 import os
+import random
 import re
 import time
-import random
 
 
 def generate_random_filepath():

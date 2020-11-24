@@ -25,5 +25,10 @@ b
 c
 ```
 
-## kebab case
+## kebab-case
 Converts a string to kebab case an copies into clibboard
+
+## json.pretty
+Trigger: `json.pretty`
+
+## 
