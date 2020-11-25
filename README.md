@@ -1,6 +1,7 @@
 # alfred-string-operations
+You can dowload the workflow [here](http://www.packal.org/workflow/string-operations)
 
-Here you can find list of commands that this workflow provides
+You can find list of commands that this workflow provides.
 
 All of the operation is performed to the content on the clipboard.
 The result will be saved to the clipboard.
