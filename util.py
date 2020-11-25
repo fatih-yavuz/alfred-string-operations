@@ -42,6 +42,7 @@ def trim_lines(content):
 def sort_lines(content):
     content = content.split("\n")
     content = [line.strip() for line in content if line.strip()]
+    content.sort()
     return "\n".join(content)
 
 

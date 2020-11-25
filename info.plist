@@ -21,6 +21,32 @@
 				<false/>
 			</dict>
 		</array>
+		<key>26AD606A-A74D-40BD-B96C-1352020EF9B5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A71EB8AD-D126-49E8-AFC8-F783D4D60435</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2AA3A4BC-23C0-494A-9717-3ACD24766CE8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>06CECF4F-FAA3-4BA7-A999-AF85704EFEF0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</key>
 		<array>
 			<dict>
@@ -60,6 +86,162 @@
 				<false/>
 			</dict>
 		</array>
+		<key>4FEE9ECC-0EB4-4D86-94A4-D135E06BCA91</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9FA58FB4-1FBB-4B3C-A1A5-C434CA90F73B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5632ABD0-6F3C-48D3-B0C2-59E5889BC6BB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>34B2FB4C-8447-44D3-8B91-7C644E77C283</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5B7026F6-2A7C-435E-AC56-6211BEEEBCFA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E3A91780-7A0A-4EE2-9807-CA62A9ABA26B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>63858A16-463B-4711-94DD-16C28FE64D8E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A374B41A-6442-41D5-8636-6AEECC5D3470</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>735DD971-BF9F-4F64-AB76-A84D799AEA3D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A74A5A9E-ECE0-4461-8C6A-E4D8A955FEE6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8CF5B4F2-4789-4373-9A67-DE7C2FB83D28</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>83672B98-3730-43C3-9523-E60442F40E91</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>948225A7-D409-40E7-ADE1-90BBCD8DCACF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9F42D441-A1D1-484A-9B32-25A683F2824A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9BAAE578-D623-4E15-86E0-B5E444D252B9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>27FB7E16-C949-430A-A62A-0C0504C25832</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A2BC31A9-C757-41F2-994B-1251E6EA7CB2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E4F4B5A6-56E2-4967-A84F-8AE384611618</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CBEF4B8C-1D5F-4330-911F-62E64F85D319</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E93AA519-905C-4DDC-8E42-23018BB3F2AC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D0038A6A-333E-4311-94B4-8AC0998BDF63</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A96E1011-208A-4B93-B345-BD263C7CCDF0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EA9C3D08-18F2-4219-BD7E-AF7F05B03218</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>75B6EE74-52B4-4780-978C-AC4A462AE226</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 	</dict>
 	<key>createdby</key>
 	<string>Fatih Yavuz</string>
@@ -79,7 +261,7 @@
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>/usr/bin/python3 rmdl.py</string>
+				<string>/usr/bin/python3 -m actions.dedup</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -100,9 +282,9 @@
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>rmdl</string>
+				<string>dedup</string>
 				<key>subtext</key>
-				<string>Remove duplicate lines and sort lines in clipboard</string>
+				<string>Remove duplicate lines</string>
 				<key>text</key>
 				<string>Remove Duplicate Lines</string>
 				<key>withspace</key>
@@ -121,7 +303,7 @@
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>kebab-case</string>
+				<string>kebabcase</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
@@ -144,7 +326,7 @@
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>/usr/bin/python3 kebab-case.py</string>
+				<string>/usr/bin/python3 -m actions.kebab_case.py</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -156,6 +338,29 @@
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>A37BDAC1-E133-4862-AE82-11ED659ACC08</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.json_pretty_print</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>81AEC0DC-38C3-4344-B5A2-1D0FF46F2F74</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -179,29 +384,6 @@
 			<string>3C66C52F-7AA1-4B74-ACD7-5AE27BF5388B</string>
 			<key>version</key>
 			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>/usr/bin/python3 json_pretty_print.py</string>
-				<key>scriptargtype</key>
-				<integer>0</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>81AEC0DC-38C3-4344-B5A2-1D0FF46F2F74</string>
-			<key>version</key>
-			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -247,6 +429,622 @@
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>bs64.decode</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Decode base64</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>A2BC31A9-C757-41F2-994B-1251E6EA7CB2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.bs64_encode</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A71EB8AD-D126-49E8-AFC8-F783D4D60435</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.bs64_decode</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E4F4B5A6-56E2-4967-A84F-8AE384611618</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>bs64 encode</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Encode to base64</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>26AD606A-A74D-40BD-B96C-1352020EF9B5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.percent_decode</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>83672B98-3730-43C3-9523-E60442F40E91</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.percent_encode</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A96E1011-208A-4B93-B345-BD263C7CCDF0</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>percent.decode</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Decode percent</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>8CF5B4F2-4789-4373-9A67-DE7C2FB83D28</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>percent.encode</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Percent Encode</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D0038A6A-333E-4311-94B4-8AC0998BDF63</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.alphanumeric</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A374B41A-6442-41D5-8636-6AEECC5D3470</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>alphanumeric</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Remove non alphanumerics</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>63858A16-463B-4711-94DD-16C28FE64D8E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>camelcase</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>camelcase</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>5632ABD0-6F3C-48D3-B0C2-59E5889BC6BB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.camel_case</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>34B2FB4C-8447-44D3-8B91-7C644E77C283</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.capitalize</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>27FB7E16-C949-430A-A62A-0C0504C25832</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>capitalize</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>capitalize</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>9BAAE578-D623-4E15-86E0-B5E444D252B9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>pascalcase</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>pascalcase</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>2AA3A4BC-23C0-494A-9717-3ACD24766CE8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.pascal_case</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>06CECF4F-FAA3-4BA7-A999-AF85704EFEF0</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.lower_case</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9F42D441-A1D1-484A-9B32-25A683F2824A</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>lowercase</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>lowercase</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>948225A7-D409-40E7-ADE1-90BBCD8DCACF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>listify</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>listify</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>CBEF4B8C-1D5F-4330-911F-62E64F85D319</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.listify</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E93AA519-905C-4DDC-8E42-23018BB3F2AC</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>setify</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>setify</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>EA9C3D08-18F2-4219-BD7E-AF7F05B03218</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.setify</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>75B6EE74-52B4-4780-978C-AC4A462AE226</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.url_parse</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A74A5A9E-ECE0-4461-8C6A-E4D8A955FEE6</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>url.parse</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>parse url</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>735DD971-BF9F-4F64-AB76-A84D799AEA3D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>sort</string>
+				<key>subtext</key>
+				<string>Sort the Lines</string>
+				<key>text</key>
+				<string>Sort the Lines</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>5B7026F6-2A7C-435E-AC56-6211BEEEBCFA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.sort</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E3A91780-7A0A-4EE2-9807-CA62A9ABA26B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>trim</string>
+				<key>subtext</key>
+				<string>Trim the Lines</string>
+				<key>text</key>
+				<string>Trim the Lines</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>4FEE9ECC-0EB4-4D86-94A4-D135E06BCA91</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.trim</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9FA58FB4-1FBB-4B3C-A1A5-C434CA90F73B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -259,6 +1057,13 @@
 			<key>ypos</key>
 			<integer>540</integer>
 		</dict>
+		<key>06CECF4F-FAA3-4BA7-A999-AF85704EFEF0</key>
+		<dict>
+			<key>xpos</key>
+			<integer>520</integer>
+			<key>ypos</key>
+			<integer>1490</integer>
+		</dict>
 		<key>16039760-F173-4AB8-9C73-DA7401D5DE23</key>
 		<dict>
 			<key>xpos</key>
@@ -266,12 +1071,40 @@
 			<key>ypos</key>
 			<integer>70</integer>
 		</dict>
+		<key>26AD606A-A74D-40BD-B96C-1352020EF9B5</key>
+		<dict>
+			<key>xpos</key>
+			<integer>280</integer>
+			<key>ypos</key>
+			<integer>710</integer>
+		</dict>
+		<key>27FB7E16-C949-430A-A62A-0C0504C25832</key>
+		<dict>
+			<key>xpos</key>
+			<integer>510</integer>
+			<key>ypos</key>
+			<integer>1330</integer>
+		</dict>
+		<key>2AA3A4BC-23C0-494A-9717-3ACD24766CE8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>1490</integer>
+		</dict>
 		<key>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</key>
 		<dict>
 			<key>xpos</key>
 			<integer>280</integer>
 			<key>ypos</key>
 			<integer>70</integer>
+		</dict>
+		<key>34B2FB4C-8447-44D3-8B91-7C644E77C283</key>
+		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
+			<key>ypos</key>
+			<integer>1180</integer>
 		</dict>
 		<key>3C66C52F-7AA1-4B74-ACD7-5AE27BF5388B</key>
 		<dict>
@@ -287,6 +1120,48 @@
 			<key>ypos</key>
 			<integer>210</integer>
 		</dict>
+		<key>4FEE9ECC-0EB4-4D86-94A4-D135E06BCA91</key>
+		<dict>
+			<key>xpos</key>
+			<integer>310</integer>
+			<key>ypos</key>
+			<integer>2460</integer>
+		</dict>
+		<key>5632ABD0-6F3C-48D3-B0C2-59E5889BC6BB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>290</integer>
+			<key>ypos</key>
+			<integer>1180</integer>
+		</dict>
+		<key>5B7026F6-2A7C-435E-AC56-6211BEEEBCFA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>310</integer>
+			<key>ypos</key>
+			<integer>2310</integer>
+		</dict>
+		<key>63858A16-463B-4711-94DD-16C28FE64D8E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>280</integer>
+			<key>ypos</key>
+			<integer>1040</integer>
+		</dict>
+		<key>735DD971-BF9F-4F64-AB76-A84D799AEA3D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>310</integer>
+			<key>ypos</key>
+			<integer>2150</integer>
+		</dict>
+		<key>75B6EE74-52B4-4780-978C-AC4A462AE226</key>
+		<dict>
+			<key>xpos</key>
+			<integer>520</integer>
+			<key>ypos</key>
+			<integer>1980</integer>
+		</dict>
 		<key>7FD4C4F4-A5DB-485E-8518-40C00655CB23</key>
 		<dict>
 			<key>xpos</key>
@@ -301,12 +1176,131 @@
 			<key>ypos</key>
 			<integer>370</integer>
 		</dict>
+		<key>83672B98-3730-43C3-9523-E60442F40E91</key>
+		<dict>
+			<key>xpos</key>
+			<integer>960</integer>
+			<key>ypos</key>
+			<integer>870</integer>
+		</dict>
+		<key>8CF5B4F2-4789-4373-9A67-DE7C2FB83D28</key>
+		<dict>
+			<key>xpos</key>
+			<integer>730</integer>
+			<key>ypos</key>
+			<integer>870</integer>
+		</dict>
+		<key>948225A7-D409-40E7-ADE1-90BBCD8DCACF</key>
+		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>1640</integer>
+		</dict>
+		<key>9BAAE578-D623-4E15-86E0-B5E444D252B9</key>
+		<dict>
+			<key>xpos</key>
+			<integer>290</integer>
+			<key>ypos</key>
+			<integer>1330</integer>
+		</dict>
+		<key>9F42D441-A1D1-484A-9B32-25A683F2824A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>520</integer>
+			<key>ypos</key>
+			<integer>1640</integer>
+		</dict>
+		<key>9FA58FB4-1FBB-4B3C-A1A5-C434CA90F73B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>530</integer>
+			<key>ypos</key>
+			<integer>2460</integer>
+		</dict>
+		<key>A2BC31A9-C757-41F2-994B-1251E6EA7CB2</key>
+		<dict>
+			<key>xpos</key>
+			<integer>730</integer>
+			<key>ypos</key>
+			<integer>710</integer>
+		</dict>
+		<key>A374B41A-6442-41D5-8636-6AEECC5D3470</key>
+		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
+			<key>ypos</key>
+			<integer>1040</integer>
+		</dict>
 		<key>A37BDAC1-E133-4862-AE82-11ED659ACC08</key>
 		<dict>
 			<key>xpos</key>
 			<integer>500</integer>
 			<key>ypos</key>
 			<integer>210</integer>
+		</dict>
+		<key>A71EB8AD-D126-49E8-AFC8-F783D4D60435</key>
+		<dict>
+			<key>xpos</key>
+			<integer>510</integer>
+			<key>ypos</key>
+			<integer>710</integer>
+		</dict>
+		<key>A74A5A9E-ECE0-4461-8C6A-E4D8A955FEE6</key>
+		<dict>
+			<key>xpos</key>
+			<integer>530</integer>
+			<key>ypos</key>
+			<integer>2150</integer>
+		</dict>
+		<key>A96E1011-208A-4B93-B345-BD263C7CCDF0</key>
+		<dict>
+			<key>xpos</key>
+			<integer>510</integer>
+			<key>ypos</key>
+			<integer>870</integer>
+		</dict>
+		<key>CBEF4B8C-1D5F-4330-911F-62E64F85D319</key>
+		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>1820</integer>
+		</dict>
+		<key>D0038A6A-333E-4311-94B4-8AC0998BDF63</key>
+		<dict>
+			<key>xpos</key>
+			<integer>280</integer>
+			<key>ypos</key>
+			<integer>870</integer>
+		</dict>
+		<key>E3A91780-7A0A-4EE2-9807-CA62A9ABA26B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>530</integer>
+			<key>ypos</key>
+			<integer>2310</integer>
+		</dict>
+		<key>E4F4B5A6-56E2-4967-A84F-8AE384611618</key>
+		<dict>
+			<key>xpos</key>
+			<integer>960</integer>
+			<key>ypos</key>
+			<integer>710</integer>
+		</dict>
+		<key>E93AA519-905C-4DDC-8E42-23018BB3F2AC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>520</integer>
+			<key>ypos</key>
+			<integer>1820</integer>
+		</dict>
+		<key>EA9C3D08-18F2-4219-BD7E-AF7F05B03218</key>
+		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>1980</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
