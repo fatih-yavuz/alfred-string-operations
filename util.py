@@ -1,3 +1,4 @@
+import json
 import os
 import random
 import re
@@ -34,6 +35,8 @@ def remove_duplicate_lines(content):
 def write_to_clipboard(content):
     filepath = generate_random_filepath()
     f = open(filepath, "w")
+    if type(content) is bytes:
+        content = str(content.decode('utf-8'))
     f.write(content)
     f.close()
     os.system("cat " + filepath + " | pbcopy")
@@ -43,3 +46,33 @@ def convert_to_kebab_case(string):
     string = string.lower().strip()
     string = re.sub(r'\s+', '-', string)
     return string
+
+
+def is_debug():
+    return os.environ['DEBUG'] == 'true'
+
+
+def debug(msg):
+    if is_debug():
+        print(msg)
+
+
+def silent(func):
+    def handler(*args, **kwargs):
+        try:
+            return func(*args, **kwargs)
+        except Exception as e:
+            debug(e)
+            return 'false'
+
+    return handler
+
+
+def json_pretty_print(content):
+    if type(content) is dict:
+        content = json.dumps(content)
+    parsed = json.loads(content)
+    return json.dumps(parsed, indent=4, sort_keys=True)
+
+
+eval = lambda f: silent(write_to_clipboard(f(content=read_from_clipboard())))
