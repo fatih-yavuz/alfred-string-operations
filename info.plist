@@ -47,6 +47,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>2BCFD8A9-C39F-4A27-BA48-978168EAC066</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4D8023DE-0E8B-46E2-8D5B-63D7A77BEC3A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</key>
 		<array>
 			<dict>
@@ -1045,6 +1058,50 @@
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>/usr/bin/python3 -m actions.html_decode</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4D8023DE-0E8B-46E2-8D5B-63D7A77BEC3A</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>html.decode</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Decodes html</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>2BCFD8A9-C39F-4A27-BA48-978168EAC066</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -1092,6 +1149,13 @@
 			<key>ypos</key>
 			<integer>1490</integer>
 		</dict>
+		<key>2BCFD8A9-C39F-4A27-BA48-978168EAC066</key>
+		<dict>
+			<key>xpos</key>
+			<integer>310</integer>
+			<key>ypos</key>
+			<integer>2620</integer>
+		</dict>
 		<key>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</key>
 		<dict>
 			<key>xpos</key>
@@ -1119,6 +1183,13 @@
 			<integer>280</integer>
 			<key>ypos</key>
 			<integer>210</integer>
+		</dict>
+		<key>4D8023DE-0E8B-46E2-8D5B-63D7A77BEC3A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>530</integer>
+			<key>ypos</key>
+			<integer>2620</integer>
 		</dict>
 		<key>4FEE9ECC-0EB4-4D86-94A4-D135E06BCA91</key>
 		<dict>
