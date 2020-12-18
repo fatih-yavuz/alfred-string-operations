@@ -104,3 +104,4 @@ def json_prettify(content):
 
 
 eval = lambda f: silent(write_to_clipboard(f(content=read_from_clipboard())))
+eval_lines = lambda f: silent(write_to_clipboard('\n'.join([f()(line) for line in read_from_clipboard().split('\n')])))

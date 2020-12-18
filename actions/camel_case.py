@@ -2,6 +2,6 @@ import stringcase
 import util
 
 
-@util.eval
-def _(content):
-    return stringcase.camelcase(content)
+@util.eval_lines
+def _():
+    return stringcase.camelcase

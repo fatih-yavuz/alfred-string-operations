@@ -3,5 +3,5 @@ import util
 
 
 @util.eval
-def _(content):
-    return stringcase.snakecase(content)
+def _():
+    return stringcase.snakecase
