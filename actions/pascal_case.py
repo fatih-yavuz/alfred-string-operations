@@ -2,6 +2,6 @@ import stringcase
 import util
 
 
-@util.eval
-def _(content):
-    return stringcase.pascalcase(content)
+@util.eval_lines
+def _():
+    return stringcase.pascalcase
